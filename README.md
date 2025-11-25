@@ -122,5 +122,3 @@ cloud-robotics-vision-simulation/
 MSc Artificial Intelligence – Robotics, Automation & Computer Vision
 2025
 
-
-Just tell me!
